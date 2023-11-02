@@ -3,7 +3,8 @@ package job
 import (
 	"encoding/json"
 	"fmt"
-	"pusher/app/mp"
+
+	"github.com/yizenghui/pusher/app/mp"
 )
 
 // Message struct 小程序订阅消息推送

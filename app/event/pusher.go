@@ -4,7 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
-	"pusher/common"
+
+	"github.com/yizenghui/pusher/common"
 )
 
 // 执行检查

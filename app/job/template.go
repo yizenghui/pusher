@@ -3,7 +3,8 @@ package job
 import (
 	"encoding/json"
 	"fmt"
-	"pusher/app/mp"
+
+	"github.com/yizenghui/pusher/app/mp"
 )
 
 // Template struct 服务号模板消息推送

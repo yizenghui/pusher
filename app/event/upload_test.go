@@ -3,10 +3,11 @@ package event
 import (
 	"encoding/json"
 	"fmt"
-	"pusher/app/mp"
-	"pusher/db"
 	"testing"
 	"time"
+
+	"github.com/yizenghui/pusher/app/mp"
+	"github.com/yizenghui/pusher/db"
 )
 
 func Test_GetUser(t *testing.T) {

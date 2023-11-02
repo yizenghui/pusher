@@ -3,10 +3,11 @@ package event
 import (
 	"fmt"
 	"log"
-	"pusher/app/mp"
-	"pusher/db"
 	"strconv"
 	"time"
+
+	"github.com/yizenghui/pusher/app/mp"
+	"github.com/yizenghui/pusher/db"
 )
 
 // 执行检查

@@ -1,4 +1,4 @@
-module pusher
+module github.com/yizenghui/pusher
 
 go 1.16
 

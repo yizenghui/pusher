@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"pusher/app/job"
+	"github.com/yizenghui/pusher/app/job"
 
 	//_ "D:\Go\src\github.com\yizenghui\pusher/docs" // 导入生成的docs.go文件
 
